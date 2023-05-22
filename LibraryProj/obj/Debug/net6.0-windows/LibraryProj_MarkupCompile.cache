@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\maman\OneDrive\שולחן העבודה\LibraryProj\LibraryProj\App.xaml
-3952727133
+31031191528
 
-17-430788865
+17-1284396232
 2141904075443
-addingItem.xaml;MainWindow.xaml;productPage.xaml;
+Pages\addingItem.xaml;Pages\MainWindow.xaml;Pages\productPage.xaml;
 
 False
 

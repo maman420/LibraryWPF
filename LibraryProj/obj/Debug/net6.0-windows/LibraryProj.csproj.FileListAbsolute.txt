@@ -6,15 +6,9 @@ C:\Users\maman\OneDrive\שולחן העבודה\LibraryProj\LibraryProj\bin\Debu
 C:\Users\maman\OneDrive\שולחן העבודה\LibraryProj\LibraryProj\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\maman\OneDrive\שולחן העבודה\LibraryProj\LibraryProj\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\maman\OneDrive\שולחן העבודה\LibraryProj\LibraryProj\obj\Debug\net6.0-windows\LibraryProj.csproj.AssemblyReference.cache
-C:\Users\maman\OneDrive\שולחן העבודה\LibraryProj\LibraryProj\obj\Debug\net6.0-windows\addingItem.g.cs
-C:\Users\maman\OneDrive\שולחן העבודה\LibraryProj\LibraryProj\obj\Debug\net6.0-windows\MainWindow.g.cs
-C:\Users\maman\OneDrive\שולחן העבודה\LibraryProj\LibraryProj\obj\Debug\net6.0-windows\productPage.g.cs
 C:\Users\maman\OneDrive\שולחן העבודה\LibraryProj\LibraryProj\obj\Debug\net6.0-windows\App.g.cs
 C:\Users\maman\OneDrive\שולחן העבודה\LibraryProj\LibraryProj\obj\Debug\net6.0-windows\LibraryProj_MarkupCompile.cache
 C:\Users\maman\OneDrive\שולחן העבודה\LibraryProj\LibraryProj\obj\Debug\net6.0-windows\LibraryProj_MarkupCompile.lref
-C:\Users\maman\OneDrive\שולחן העבודה\LibraryProj\LibraryProj\obj\Debug\net6.0-windows\addingItem.baml
-C:\Users\maman\OneDrive\שולחן העבודה\LibraryProj\LibraryProj\obj\Debug\net6.0-windows\MainWindow.baml
-C:\Users\maman\OneDrive\שולחן העבודה\LibraryProj\LibraryProj\obj\Debug\net6.0-windows\productPage.baml
 C:\Users\maman\OneDrive\שולחן העבודה\LibraryProj\LibraryProj\obj\Debug\net6.0-windows\LibraryProj.g.resources
 C:\Users\maman\OneDrive\שולחן העבודה\LibraryProj\LibraryProj\obj\Debug\net6.0-windows\LibraryProj.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\maman\OneDrive\שולחן העבודה\LibraryProj\LibraryProj\obj\Debug\net6.0-windows\LibraryProj.AssemblyInfoInputs.cache
@@ -56,3 +50,9 @@ C:\Users\maman\OneDrive\שולחן העבודה\LibraryProj\LibraryProj\bin\Debu
 C:\Users\maman\OneDrive\שולחן העבודה\LibraryProj\LibraryProj\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\maman\OneDrive\שולחן העבודה\LibraryProj\LibraryProj\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\maman\OneDrive\שולחן העבודה\LibraryProj\LibraryProj\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\maman\OneDrive\שולחן העבודה\LibraryProj\LibraryProj\obj\Debug\net6.0-windows\Pages\addingItem.g.cs
+C:\Users\maman\OneDrive\שולחן העבודה\LibraryProj\LibraryProj\obj\Debug\net6.0-windows\Pages\MainWindow.g.cs
+C:\Users\maman\OneDrive\שולחן העבודה\LibraryProj\LibraryProj\obj\Debug\net6.0-windows\Pages\productPage.g.cs
+C:\Users\maman\OneDrive\שולחן העבודה\LibraryProj\LibraryProj\obj\Debug\net6.0-windows\Pages\addingItem.baml
+C:\Users\maman\OneDrive\שולחן העבודה\LibraryProj\LibraryProj\obj\Debug\net6.0-windows\Pages\MainWindow.baml
+C:\Users\maman\OneDrive\שולחן העבודה\LibraryProj\LibraryProj\obj\Debug\net6.0-windows\Pages\productPage.baml

@@ -7,13 +7,13 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="addingItem.xaml">
+    <Page Update="Pages\addingItem.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="MainWindow.xaml">
+    <Page Update="Pages\MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="productPage.xaml">
+    <Page Update="Pages\productPage.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
