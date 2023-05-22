@@ -1,0 +1,36 @@
+﻿<Window x:Class="LibraryProj.productPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LibraryProj"
+        mc:Ignorable="d"
+        Title="productPage" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="2*"/>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        
+        <TextBlock Grid.Column="0" Grid.Row="0" VerticalAlignment="Center" x:Name="titleTextBlock" FontSize="40">book name</TextBlock>
+        <TextBlock Grid.Column="0" Grid.Row="1" VerticalAlignment="Top" x:Name="authorTextBlock" FontSize="26" >author name</TextBlock>
+        <TextBlock Grid.Column="0" Grid.Row="1" VerticalAlignment="Center" x:Name="priceTextBlock" FontSize="26" >price:</TextBlock>
+
+        <TextBlock Grid.Column="0" Grid.Row="1" VerticalAlignment="Bottom" x:Name="isbnTextBlock" FontSize="26" >isbn:</TextBlock>
+        <TextBlock Grid.Column="0" Grid.Row="2" VerticalAlignment="Top" x:Name="stockTextBlock" FontSize="26">in stock:</TextBlock>
+        <TextBlock Grid.Column="0" Grid.Row="2" Margin="0,30,0,0" x:Name="descriptionTextBlock" FontSize="20">description:</TextBlock>
+
+        <Button Grid.Column="2" Grid.Row="0" x:Name="backToMainBtn" Click="backToMainBtn_Click" Height="50" Width="150" FontSize="20">back to main</Button>
+        <Button Grid.Column="2" Grid.Row="2" VerticalAlignment="Bottom" x:Name="removeBtn" Click="removeBtn_Click" Height="50" Width="150" FontSize="20" >remove item</Button>
+        <Button Grid.Column="2" Grid.Row="2" x:Name="addToStockBtn" Click="addToStockBtn_Click" Height="50" Width="150" FontSize="20">add to stock</Button>
+        <Button Grid.Column="2" Grid.Row="2" VerticalAlignment="Top" x:Name="removeStockBtn" Click="removeStockBtn_Click" Height="50" Width="150" FontSize="20">remove from stock</Button>
+        <Button Grid.Column="2" Grid.Row="1" VerticalAlignment="Bottom" x:Name="discountBtn" Click="discountBtn_Click" Height="50" Width="150" FontSize="20">apply discount</Button>
+        <TextBox Grid.Column="2" Grid.Row="1" VerticalAlignment="Top" x:Name="discountTextBox" Height="40" PreviewTextInput="NumberValidationTextBox">enter discount here</TextBox>
+    </Grid>
+</Window>
